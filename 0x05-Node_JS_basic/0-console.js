@@ -3,7 +3,7 @@
  * @param {String} msg the message to display.
  */
 const displayMessage = (msg) => {
-  console.log(msh);
+  console.log(msg);
 };
 
 module.exports = displayMessage;
